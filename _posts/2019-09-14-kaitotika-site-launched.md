@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kai Tōtika, Straight-up Nutrition, Launches Site"
+title: "Kai tōtika, Straight-up Nutrition, Launches Site"
 date: 2019-09-14
 ---
 
